@@ -1,0 +1,46 @@
+Package: com.matanatam.transpattery
+Name: Transpattery
+Depends: com.fortysixandtwo.alkaline
+Version: 1.0
+Size: 37298
+Section: Themes
+Filename: Debs/com.matanatam.transpattery_1.0_iphoneos-arm.deb
+MD5sum: 06616F5F81D17E7CA374E7E71896905D
+SHA1: 21dc863b00b9e2118f2423328bbf265cc8a9ef62
+SHA256: 4c4872a842d74afe6fbbbbb3bdd9a10f6ce5f6263e36a40b9f7ea500e034da0f
+Maintainer: MataNataM <matanatam.ios@gmail.com>
+Architecture: iphoneos-arm
+Description: transparency-based battery theme for Alkaline 
+Depiction: https://matanatam.github.io/Repo/depictions/com.matanatam.transpattery.html
+Author: MataNataM <matanatam.ios@gmail.com>
+
+Package: com.matanatam.simpall
+Name: Simpall
+Version: 1.0
+Size: 15815164
+Section: Themes
+Filename: Debs/com.matanatam.simpall_1.0_iphoneos-arm.deb
+MD5sum: 216e6c39e39806cc4f8c94e9cc9ef7ac
+SHA1: ff2207d20e9d0507e6d5fc2b99c2a7a3e2e83065
+SHA256: bd4fb464f35459cb0c2118ab84b896ea6f1a29cf5ac46c24c8ebc55ace2e56cc
+Maintainer: MataNataM <matanatam.ios@gmail.com>
+Architecture: iphoneos-arm
+Description: let's make things simple
+Depiction: https://matanatam.github.io/Repo/depictions/com.matanatam.simpall.html
+Author: MataNataM <matanatam.ios@gmail.com>
+
+Package: com.matanatam.symbiosis
+Name: Symbiosis
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Size: 7250944
+Section: Themes
+Filename: Debs/com.matanatam.symbiosis_1.0_iphoneos-arm.deb
+MD5sum: 02cbf305a29417542c2a9f31e14d9837
+SHA1: e23ad8564035296a5f84bd943d7845e47963121e
+SHA256: 1b97afeb202c9185d32486f62f1dbfd9792b8d7fc34d37a49e4e2b3b0adbbb85
+Maintainer: MataNataM <matanatam.ios@gmail.com>
+Architecture: iphoneos-arm
+Description: Symbian UI on your iPhone 
+Depiction: https://matanatam.github.io/Repo/depictions/com.matanatam.symbiosis.html
+Author: MataNataM <matanatam.ios@gmail.com>
