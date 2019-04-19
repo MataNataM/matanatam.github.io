@@ -40,14 +40,14 @@ box-sizing:border-box;
 
 .more{
 background-color: white;
-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.085);
+box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.085);
 padding: 10;
 }
 
 .screenshots img{ 
 width: 48%;
 margin: 0 3 3 0;
-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.225);
+box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.225);
 }
 
 .ss-cnt{
@@ -101,7 +101,7 @@ body > panel {
     margin-top:10px;
     background-color: #f9f9f9;
     border-radius: 20px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.085)
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.085)
 }
 
 body > panel > fieldset+fieldset {
