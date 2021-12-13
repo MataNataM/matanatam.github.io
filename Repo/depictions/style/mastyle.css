@@ -101,7 +101,7 @@ body > panel {
     margin-top:10px;
     background-color: #f9f9f9;
     border-radius: 20px;
-    box-shadow: 0px 2px 60px rgba(0, 0, 0, 0.185)
+    box-shadow: 0px 2px 60px rgba(52, 72, 146, 0.185), 0px 5px 6px rgba(52, 72, 146, 0.385), 0px 2px 3px rgba(22, 42, 116, 0.085), 0px 30px 50px rgba(52, 72, 146, 0.085),0px 0.9999px 0px rgba(0, 0, 0, 0.125) , inset  0px 4px 3px rgba(255, 255, 255, 1), inset  0px -3px 0px rgba(52, 72, 146, 0.285)
 }
 
 body > panel > fieldset+fieldset {
@@ -142,4 +142,3 @@ panel > fieldset.button a {
     background-size: 10px 15px;
 margin-right:15px;
 }
-
